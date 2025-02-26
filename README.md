@@ -31,9 +31,6 @@ me = MuhammadNurAbdi()
   <a href="https://github.com/Sinestesiaaa#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/Sinestesiaaa/Sinestesiaaa/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="GitHub Contribution Snake Graph"/>
   </a>
-  <a href="https://github.com/Sinestesiaaa#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/Sinestesiaaa/Sinestesiaaa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Graph"/>
-  </a>
 </p>
 
 
