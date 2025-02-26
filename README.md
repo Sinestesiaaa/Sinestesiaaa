@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](banner.png))
+![image](banner.png)
 
 ## Welcome to my Github Profile! <br> <img src="https://komarev.com/ghpvc/?username=Sinestesiaaa&label=Visitors&color=blueviolet&style=flat-square" alt="Profile Views" />
 ### About me!
